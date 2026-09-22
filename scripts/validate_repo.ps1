@@ -62,11 +62,9 @@ foreach ($file in $textFiles) {
   }
 }
 
-foreach ($forbiddenName in @('Cerimedo', 'Cannava', 'Cannis')) {
-  foreach ($file in $textFiles) {
-    if ((Get-Content -LiteralPath $file.FullName -Raw) -match [regex]::Escape($forbiddenName)) {
-      $errors.Add("Nombre de expediente privado en el paquete público: $forbiddenName en $($file.FullName).")
-    }
+foreach ($caseName in @('cerimedo', 'cannava', 'iosfa', 'cannabis-ciencia', 'acceso-informacion', 'suicidios')) {
+  if (-not (Test-Path -LiteralPath (Join-Path $repoRoot "investigaciones\$caseName.md"))) {
+    $errors.Add("Falta la edición pública de $caseName.")
   }
 }
 
@@ -79,4 +77,4 @@ if ($errors.Count) {
   exit 1
 }
 
-Write-Output "OK: 30 compradores, ranks únicos, enlaces locales válidos, sin patrones de secretos ni nombres de expedientes privados."
+Write-Output "OK: 30 compradores, ranks únicos, seis investigaciones, enlaces locales válidos y sin patrones de secretos."
