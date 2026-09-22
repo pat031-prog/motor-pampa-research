@@ -1,0 +1,43 @@
+name: Encuadre de proyecto
+description: Consulta inicial sin información sensible
+title: "[ENCUADRE] "
+labels:
+  - inquiry
+body:
+  - type: markdown
+    attributes:
+      value: |
+        No incluya nombres propios, datos personales, acusaciones, credenciales ni documentos reservados. Este formulario es público.
+  - type: dropdown
+    id: service
+    attributes:
+      label: Tipo de necesidad
+      options:
+        - Evidence Sprint
+        - Data Room verificable
+        - Observatorio
+        - Auditoría de datos públicos
+        - Alianza editorial
+    validations:
+      required: true
+  - type: textarea
+    id: decision
+    attributes:
+      label: Decisión que necesita informar
+      description: Describa el problema en abstracto.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Alcance general
+      description: Jurisdicción, período y tipo de fuentes, sin identificar personas.
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Confirmación
+      options:
+        - label: Confirmo que no incluí información sensible ni datos personales.
+          required: true

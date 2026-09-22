@@ -1,0 +1,4 @@
+source_id,title,issuer,published_at,accessed_at,url,format,hash_status,notes
+SRC-001,"Resolución de ejemplo",Organismo Alfa,2026-01-14,2026-09-22,https://example.org/resolucion,pdf,verificado,"Ejemplo sintético"
+SRC-002,"Anexo corregido",Organismo Alfa,2026-01-22,2026-09-22,https://example.org/anexo,pdf,verificado,"Ejemplo sintético"
+SRC-003,"Comunicado",Entidad Beta,2026-01-23,2026-09-22,https://example.org/comunicado,html,no_aplica,"Ejemplo sintético"

@@ -1,0 +1,4 @@
+event_id,event_date,publication_date,entity,event,source_id,evidence_grade
+EVT-001,2026-01-14,2026-01-14,Organismo Alfa,"Publicación de resolución",SRC-001,A
+EVT-002,2026-01-20,2026-01-22,Organismo Alfa,"Publicación de anexo corregido",SRC-002,A
+EVT-003,2026-01-21,2026-01-23,Entidad Beta,"Comunicación pública sobre el cambio",SRC-003,B

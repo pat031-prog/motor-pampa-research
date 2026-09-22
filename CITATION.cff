@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Motor Pampa Research: metodología y portafolio público"
+message: "Si este repositorio informa un trabajo académico o profesional, cite la versión consultada."
+type: software
+authors:
+  - family-names: "Motor Pampa"
+version: 1.0.0
+date-released: 2026-09-22
+repository-code: "https://github.com/pat031-prog/motor-pampa-research"
+license: LicenseRef-Proprietary

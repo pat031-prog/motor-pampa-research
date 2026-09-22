@@ -1,0 +1,5 @@
+claim_id,claim_text,grade,status,source_ids,alternative,breaks_if
+CLM-001,"El organismo publicó tres versiones del mismo acto",A,sostenida,"SRC-001|SRC-002|SRC-003","Una de las copias podría ser una reproducción no oficial","El registro oficial demuestra que solo existió una versión"
+CLM-002,"La diferencia temporal es consistente con una corrección posterior",B,abierta,"SRC-002|SRC-003","La diferencia puede deberse a metadatos de descarga","Se obtiene el historial de publicación con una única fecha"
+CLM-003,"La modificación respondió a una instrucción externa",C,abierta,SRC-004,"La fuente tiene interés directo y no aporta documento","Aparece una comunicación primaria que contradice el relato"
+CLM-004,"No se encontró el anexo citado en los repositorios consultados",NEG,sostenida,SRC-LOG-001,"El anexo puede existir fuera del universo buscado","El emisor publica o entrega el anexo faltante"

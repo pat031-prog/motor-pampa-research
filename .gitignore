@@ -1,0 +1,9 @@
+.work/
+*.tmp
+*.bak
+~$*
+presentacion/rendered/
+presentacion/_build/
+.codex-finalizer/
+.DS_Store
+Thumbs.db

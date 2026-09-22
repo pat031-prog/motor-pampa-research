@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=Jost:wght@600;700&display=swap');
+
+:root {
+  --ink: #15171b;
+  --ink-70: rgba(21, 23, 27, .7);
+  --paper: #f1ece0;
+  --paper-dim: #e7e0cd;
+  --paper-0: #faf7ef;
+  --pampa-red: #c1352a;
+  --pampa-red-dim: #8f2519;
+  --motor-blue: #223a5c;
+  --motor-blue-dim: #152840;
+  --motor-blue-tint: #dde3ea;
+  --cool-gray-30: #d9dad2;
+  --cool-gray-50: #a7a99f;
+  --warm-gray-70: #6f6452;
+  --font-display: 'Jost', sans-serif;
+  --font-body: 'IBM Plex Sans', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --space-9: 96px;
+}

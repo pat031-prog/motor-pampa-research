@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Encuadre de proyecto
+    url: https://github.com/pat031-prog/motor-pampa-research/issues/new?template=project-fit.yml
+    about: Describa el problema sin nombres propios, datos personales ni adjuntos sensibles.
