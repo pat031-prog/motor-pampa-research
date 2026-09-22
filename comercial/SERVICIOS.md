@@ -35,4 +35,4 @@ Entrega: base documentada, diccionario, QA, tablas, límites y recomendaciones d
 | Retainer | Monitoreo o soporte recurrente | Revisión periódica |
 | Subcontratación | Equipos legales, editoriales o consultoras | Marca blanca o coautoría |
 
-Los precios se cotizan después del encuadre porque dependen de volumen, idiomas, urgencia, acceso, revisión especializada y nivel de riesgo.
+Los [cuatro modelos de piloto](PILOTOS.md) muestran un alcance, un plazo y un precio orientativo para empezar. La cotización formal se emite después del encuadre porque volumen, idiomas, urgencia, acceso, revisión especializada y riesgo pueden cambiar el trabajo.
