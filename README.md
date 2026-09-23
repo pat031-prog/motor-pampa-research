@@ -1,12 +1,18 @@
 # MOTOR PAMPA
 
-### Documentos primarios, datos propios y una ruta de prueba para decisiones reales.
+### Reconstrucciones documentales y análisis de datos que se pueden revisar desde la fuente.
 
 Investigación documental OSINT, auditoría de datos y análisis técnico-probatorio en Argentina. Llegamos a contratos, expedientes, bases y archivos originales; reconstruimos cadenas societarias y administrativas; calculamos indicadores propios. Cada conclusión vuelve a su fuente, su método y su fecha de corte.
 
 ![Portada de Motor Pampa](presentacion/preview.png)
 
-**[Ver investigaciones reales](investigaciones/README.md) · [Explorar cuatro pilotos](comercial/PILOTOS.md) · [Leer el método](metodologia/METODO.md) · [Abrir la presentación](presentacion/Motor_Pampa_Research_2026-09-23.pptx)**
+**[Ver capacidades demostradas](CAPACIDADES.md) · [Abrir las siete investigaciones](investigaciones/README.md) · [Explorar cuatro pilotos](comercial/PILOTOS.md) · [Leer el método](metodologia/METODO.md) · [Abrir la presentación](presentacion/Motor_Pampa_Research_2026-09-23.pptx)**
+
+## No son sólo búsquedas OSINT
+
+El trabajo público permite seguir una **cadena contractual y societaria internacional** hasta sus instrumentos originales; examinar técnicamente un PDF regulatorio; reconstruir un legajo electoral sin convertir indicios en hechos; recalcular proporciones sobre **62.311 solicitudes de acceso a la información**; comparar dos cortes de expedientes IOSFA y definir qué registros internos habría que preservar; y producir **estadística propia** sobre suicidios contrastando sistemas que no miden lo mismo. También auditamos un dossier previo hasta encontrar y corregir filtros demasiado amplios, cobertura incompleta y una cifra simulada.
+
+La [matriz de capacidades demostradas](CAPACIDADES.md) enlaza cada operación con su caso y aclara qué fue ejecutado y qué es un protocolo preparado para una diligencia futura. Para una revisión técnica rápida: [Cannava](investigaciones/cannava.md) (documentos y derechos), [Acceso a la información](investigaciones/acceso-informacion.md) (base y denominadores), [IOSFA](investigaciones/iosfa.md) (serie y arquitectura probatoria) y [Suicidios](investigaciones/suicidios.md) (cálculos y comparabilidad).
 
 ## El problema que resolvemos
 
@@ -33,13 +39,15 @@ Estas páginas son una edición pública del trabajo; enlazan originales en sus 
 
 | Investigación | Lo que permite examinar |
 |---|---|
+| [Cerimedo](investigaciones/cerimedo.md) | Dictamen CNE, registro FARA y avisos societarios: cronología político-electoral, vínculos documentados, afirmaciones retiradas y piezas aún necesarias para cerrar contratación y pagos. |
 | [Cannava](investigaciones/cannava.md) | Contrato original Cannava–PNTV, exhibits SEC, SPA regulatorio CSE y boletines: reconstrucción societaria BBV–SATIN–Blueberries y dos rutas de derechos aún no unidas por un instrumento público. |
 | [Acceso a la información](investigaciones/acceso-informacion.md) | 62.311 solicitudes y 4.451 reclamos: proporciones de vencimiento por sujeto obligado, circuitos de demora y una base para preparar reclamos y litigios con el expediente individual. |
 | [Suicidios](investigaciones/suicidios.md) | Serie 2005–2024, cálculos propios de tasas y cambios, y contraste crítico de DEIS, SNIC, SNVS y MPA sin duplicar hechos ni exponer personas. |
 | [IOSFA](investigaciones/iosfa.md) | Dos cortes administrativos y un protocolo técnico para preservar logs, cotejar migraciones y documentar qué prueba faltaría para evaluar continuidad prestacional. |
 | [Observatorio Cannis](investigaciones/observatorio-cannis.md) | Auditoría adversarial de un dossier: proxies temáticos, objetos no recuperados, cifras simuladas y cronología normativa corregida. |
+| [Mapa científico del cannabis](investigaciones/cannabis-ciencia.md) | Once capas de ciencia, ensayos, regulación, compras y territorio; 214 publicaciones candidatas y 121 instituciones argentinas identificadas por metadatos, con brechas de enlace documentadas. |
 
-También están [Cerimedo](investigaciones/cerimedo.md) y el [mapa científico del cannabis en Argentina](investigaciones/cannabis-ciencia.md). Los [tres casos demostrativos](casos/) muestran el formato de entrega sin publicar material sensible.
+Los [tres casos demostrativos](casos/) muestran el formato de entrega sin publicar material sensible. La [matriz de capacidades](CAPACIDADES.md) permite revisar técnicas y resultados por separado.
 
 ## Empezar con una pregunta, no con un contrato enorme
 
