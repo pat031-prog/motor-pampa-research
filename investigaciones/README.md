@@ -1,8 +1,8 @@
 # Investigaciones
 
-`EDICIÓN PÚBLICA / CORTE EDITORIAL 2026-09-22`
+`EDICIÓN PÚBLICA / ACTUALIZACIÓN EDITORIAL 2026-09-23`
 
-El primer lanzamiento de este repositorio sólo mostraba tres casos anónimos. Esta sección identifica seis líneas de investigación efectivamente trabajadas, sus resultados comprobables, documentos primarios accesibles y límites. Cada página distingue el corte del trabajo del estado actual de las instituciones: las cifras históricas no son un tablero en tiempo real.
+El primer lanzamiento de este repositorio sólo mostraba tres casos anónimos. Esta sección identifica siete líneas de investigación efectivamente trabajadas, sus resultados comprobables, documentos primarios accesibles y límites. Cada página distingue el corte del trabajo del estado actual de las instituciones: las cifras históricas no son un tablero en tiempo real.
 
 | Línea | Qué puede examinarse aquí | Corte del acervo |
 |---|---|---|
@@ -10,6 +10,7 @@ El primer lanzamiento de este repositorio sólo mostraba tres casos anónimos. E
 | [Cannava y la reconstrucción societaria](cannava.md) | Contratos SEC, dos corredores, BBV/SATIN/Blueberries y documentos faltantes | 04-09-2026 |
 | [IOSFA: mora y arquitectura probatoria](iosfa.md) | Dos cortes SIP, transiciones institucionales y prueba aún requerida | 20-07-2026 |
 | [Mapa científico e institucional del cannabis](cannabis-ciencia.md) | Once mapas, publicaciones, instituciones, ensayos y brechas regulatorias | 22-06-2026 |
+| [Observatorio Cannis: auditoría del dossier](observatorio-cannis.md) | Revisión de proxies, objetos recuperables, cifras simuladas y secuencia normativa | 22-06-2026 |
 | [Acceso a la información](acceso-informacion.md) | Estadísticas agregadas por sujeto obligado y límites de cada denominador | 02-06-2026 |
 | [Suicidios: registro, territorio y respuesta](suicidios.md) | Series DEIS, contraste de sistemas y notas de calidad del dato | 17-09-2026 |
 

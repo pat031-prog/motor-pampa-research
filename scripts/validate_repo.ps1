@@ -62,13 +62,13 @@ foreach ($file in $textFiles) {
   }
 }
 
-foreach ($caseName in @('cerimedo', 'cannava', 'iosfa', 'cannabis-ciencia', 'acceso-informacion', 'suicidios')) {
+foreach ($caseName in @('cerimedo', 'cannava', 'iosfa', 'cannabis-ciencia', 'observatorio-cannis', 'acceso-informacion', 'suicidios')) {
   if (-not (Test-Path -LiteralPath (Join-Path $repoRoot "investigaciones\$caseName.md"))) {
     $errors.Add("Falta la edición pública de $caseName.")
   }
 }
 
-if (-not (Test-Path -LiteralPath (Join-Path $repoRoot 'presentacion\Motor_Pampa_Research.pptx'))) {
+if (-not (Test-Path -LiteralPath (Join-Path $repoRoot 'presentacion\Motor_Pampa_Research_2026-09-23.pptx'))) {
   $errors.Add('Falta la presentación final.')
 }
 
@@ -77,4 +77,4 @@ if ($errors.Count) {
   exit 1
 }
 
-Write-Output "OK: 30 compradores, ranks únicos, seis investigaciones, enlaces locales válidos y sin patrones de secretos."
+Write-Output "OK: 30 compradores, ranks únicos, siete investigaciones, enlaces locales válidos y sin patrones de secretos."

@@ -4,6 +4,8 @@
 
 El observatorio integra once mapas: acceso a información; recuperación documental; presupuesto; REPROCANN; INASE; ciencia y ensayos; provincias; ANMAT/INAME; compras; comercio exterior; y actividad parlamentaria. Cada mapa define una unidad de análisis distinta. La existencia de una norma, publicación, convocatoria o anuncio no equivale a producto autorizado, compra ejecutada, entrega o exportación atribuible a una empresa.
 
+Antes de ampliar estos mapas, el equipo [auditó el dossier previo](observatorio-cannis.md): corrigió un proxy de reclamos demasiado amplio, registró los objetos no recuperados y retiró cifras presupuestarias simuladas. Esa depuración forma parte del resultado, no sólo de la cocina metodológica.
+
 ## Ciencia y capacidad visible
 
 El barrido de [OpenAlex](https://openalex.org/) registró **214 trabajos candidatos únicos** con afiliación argentina y vocabulario temático, asociados a **121 instituciones argentinas**. Son metadatos bibliográficos: el recuento depende de indexación, consulta y deduplicación. No mide por sí solo impacto clínico, financiamiento vigente ni transferencia industrial. El [Sistema Nacional de Repositorios Digitales](https://repositoriosdigitales.mincyt.gob.ar/vufind/) aportó **286 registros candidatos** después de filtrar títulos y deduplicar URLs.

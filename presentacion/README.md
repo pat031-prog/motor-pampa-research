@@ -1,6 +1,6 @@
 # Presentación institucional
 
-El archivo `Motor_Pampa_Research.pptx` es un deck editable de once diapositivas para reuniones comerciales y alianzas.
+La [presentación actual](Motor_Pampa_Research_2026-09-23.pptx) es un deck editable de once diapositivas para reuniones comerciales y alianzas. La [versión inicial](Motor_Pampa_Research.pptx) se conserva como antecedente, no como pieza para circular.
 
 ![Vista previa de la portada](preview.png)
 
@@ -11,10 +11,10 @@ El archivo `Motor_Pampa_Research.pptx` es un deck editable de once diapositivas 
 3. Producto entregable.
 4. Método.
 5. Estándar de evidencia.
-6. Caso de salud pública.
-7. Caso de industria regulada.
-8. Observatorio.
-9. Servicios.
+6. Suicidios: serie, números propios y contraste de registros.
+7. Cannava: documentos primarios, reconstrucción societaria y dos rutas de derechos.
+8. Observatorio Cannis: auditoría adversarial de un dossier.
+9. Pilotos y proyectos técnico-probatorios a medida.
 10. Rutas de mercado.
 11. Piloto propuesto.
 

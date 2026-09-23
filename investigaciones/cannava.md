@@ -2,7 +2,7 @@
 
 `CORTE DOCUMENTAL / 2026-09-04`
 
-La reconstrucción separa dos corredores contractuales vinculados al proyecto estatal de Jujuy. El primero nace del convenio de 2018 entre Cannava S.E. y Players Network (PNTV). El segundo es un acuerdo directo BBV Labs–Cannava descrito en documentación posterior, con SATIN y Blueberries en su estructura. El legajo preserva facsímiles, presentaciones regulatorias, boletines y manifiestos; esta página enlaza los originales abiertos y conserva las condiciones de lectura.
+Esta investigación llegó a los **instrumentos primarios**, no sólo a notas que los citan: el convenio de 2018 entre Cannava S.E. y Players Network (PNTV), contratos exhibidos ante la SEC, el SPA publicado por la CSE y boletines societarios de Jujuy. Con ellos reconstruimos partes, derechos, cambios de control y la estructura BBV Labs–SATIN–Blueberries. El resultado más importante es una distinción jurídica concreta: el corredor PNTV–Cannava y el acuerdo directo BBV Labs–Cannava descrito después son dos rutas; el archivo público revisado no contiene el instrumento que permita unirlas. El legajo preserva facsímiles, presentaciones regulatorias, boletines y manifiestos; esta página enlaza los originales abiertos y conserva las condiciones de lectura.
 
 ## Ruta de los documentos primarios
 
@@ -19,6 +19,10 @@ La reconstrucción separa dos corredores contractuales vinculados al proyecto es
 `[A]` Los documentos de adquisición de Blueberries describen la compra del 100 % de BBV Labs y una participación del 75 % en SATIN. [Estados financieros posteriores de la emisora](https://thecse.com/listings/blueberries-medical-corp/cse-filings/) las mantienen consolidadas y las califican como inactivas al corte revisado. “Inactiva” en un balance no significa disuelta ni extingue por sí sola un derecho contractual. Las enmiendas económicas de 2019–2020 aparecen resumidas en disclosures; los instrumentos firmados no se localizaron.
 
 `[A]` El contrato original fija condiciones económicas y un derecho de preferencia. El contrato PNI–GLFI identifica a GLFI como subcontratista. `[NEG]` En el corpus abierto examinado no apareció un instrumento que termine el convenio PNTV–Cannava, una cesión PNTV→BBV, el consentimiento de Cannava para BBV→SATIN ni la cesión correspondiente. Por eso los dos corredores se muestran en paralelo, sin dibujar una cadena jurídica continua entre ellos.
+
+## Examen técnico de un documento público
+
+El [SPA publicado en el archivo regulatorio CSE](https://sedar-filings-backup.thecse.com/00035029/1907120817202848.pdf) se examinó como PDF, además de leerse como texto. La revisión de sus 51 páginas, flujos de contenido y metadatos no encontró una capa nominal recuperable bajo las redacciones de los vendedores; el texto del archivo ya decía `Redacted – Confidential Information`. `[NEG]` El resultado se limita a **ese PDF público**. Un dato de autoría técnica del archivo no identifica por sí solo a los vendedores ni permite reconstruir un documento original no publicado.
 
 ## Capital, operación y exportación
 

@@ -1,12 +1,12 @@
 # MOTOR PAMPA
 
-### Si una conclusión importa, mostremos los documentos.
+### Documentos primarios, datos propios y una ruta de prueba para decisiones reales.
 
-Investigación documental OSINT, auditoría de datos y análisis técnico-probatorio en Argentina. Reconstruimos hechos a partir de fuentes dispersas y entregamos una ruta verificable desde cada afirmación hasta su respaldo. También señalamos lo que falta, contradice o todavía no puede afirmarse.
+Investigación documental OSINT, auditoría de datos y análisis técnico-probatorio en Argentina. Llegamos a contratos, expedientes, bases y archivos originales; reconstruimos cadenas societarias y administrativas; calculamos indicadores propios. Cada conclusión vuelve a su fuente, su método y su fecha de corte.
 
 ![Portada de Motor Pampa](presentacion/preview.png)
 
-**[Ver investigaciones reales](investigaciones/README.md) · [Explorar cuatro pilotos](comercial/PILOTOS.md) · [Leer el método](metodologia/METODO.md) · [Abrir la presentación](presentacion/Motor_Pampa_Research.pptx)**
+**[Ver investigaciones reales](investigaciones/README.md) · [Explorar cuatro pilotos](comercial/PILOTOS.md) · [Leer el método](metodologia/METODO.md) · [Abrir la presentación](presentacion/Motor_Pampa_Research_2026-09-23.pptx)**
 
 ## El problema que resolvemos
 
@@ -17,8 +17,11 @@ Motor Pampa ordena ese trabajo para estudios jurídicos, equipos de compliance, 
 | Si necesitás… | Te entregamos… |
 |---|---|
 | Saber si una hipótesis se sostiene | Cronología, matriz de afirmaciones, fuentes y vacíos |
+| Reconstruir una cadena de contratos o sociedades | Instrumentos primarios, mapa de partes y derechos, cambios de control y eslabones documentales faltantes |
+| Comprobar un informe antes de usarlo | Auditoría de fuentes, filtros, código y cifras; correcciones y límites publicables |
 | Revisar un corpus sin perder versiones | Índice, hashes, procedencia y bitácora de un data room |
-| Usar una cifra pública con confianza | Base depurada, controles, análisis reproducible y límites |
+| Usar una cifra pública con confianza | Base depurada, tasas y estimaciones propias, pruebas de sensibilidad, código y límites |
+| Documentar una mora informativa | Tasas comparables por sujeto y cohorte, recorrido administrativo y anexos para reclamos o revisión jurídica |
 | Detectar cambios relevantes | Observatorio de fuentes con alertas justificadas |
 | Preparar registros digitales para una controversia o auditoría | Plan de preservación, inventario de sistemas, cotejo de versiones y lotes, controles de integridad e informe técnico para revisión jurídica o pericial, según los materiales disponibles |
 
@@ -30,16 +33,17 @@ Estas páginas son una edición pública del trabajo; enlazan originales en sus 
 
 | Investigación | Lo que permite examinar |
 |---|---|
-| [Cannava](investigaciones/cannava.md) | Contratos y presentaciones regulatorias de varios países; dos rutas contractuales que **no** se unen sin el instrumento faltante. |
-| [Acceso a la información](investigaciones/acceso-informacion.md) | Auditoría de 62.311 solicitudes y por qué “expediente alojado en una repartición” no equivale a “organismo que debía responder”. |
-| [Suicidios](investigaciones/suicidios.md) | Serie 2005–2024 y contraste entre registros sin sumarlos como observaciones independientes ni exponer personas. |
+| [Cannava](investigaciones/cannava.md) | Contrato original Cannava–PNTV, exhibits SEC, SPA regulatorio CSE y boletines: reconstrucción societaria BBV–SATIN–Blueberries y dos rutas de derechos aún no unidas por un instrumento público. |
+| [Acceso a la información](investigaciones/acceso-informacion.md) | 62.311 solicitudes y 4.451 reclamos: proporciones de vencimiento por sujeto obligado, circuitos de demora y una base para preparar reclamos y litigios con el expediente individual. |
+| [Suicidios](investigaciones/suicidios.md) | Serie 2005–2024, cálculos propios de tasas y cambios, y contraste crítico de DEIS, SNIC, SNVS y MPA sin duplicar hechos ni exponer personas. |
 | [IOSFA](investigaciones/iosfa.md) | Dos cortes administrativos y un protocolo técnico para preservar logs, cotejar migraciones y documentar qué prueba faltaría para evaluar continuidad prestacional. |
+| [Observatorio Cannis](investigaciones/observatorio-cannis.md) | Auditoría adversarial de un dossier: proxies temáticos, objetos no recuperados, cifras simuladas y cronología normativa corregida. |
 
 También están [Cerimedo](investigaciones/cerimedo.md) y el [mapa científico del cannabis en Argentina](investigaciones/cannabis-ciencia.md). Los [tres casos demostrativos](casos/) muestran el formato de entrega sin publicar material sensible.
 
 ## Empezar con una pregunta, no con un contrato enorme
 
-Los [cuatro modelos de piloto](comercial/PILOTOS.md) fijan alcance, plazo, entregables, aceptación y precio orientativo. El punto de entrada más simple es un [Evidence Sprint](comercial/pilotos/01-evidence-sprint.md): una pregunta cerrada, búsqueda delimitada y un memo que muestra qué se puede sostener hoy y qué diligencia conviene hacer después. También hay [auditoría de datos](comercial/pilotos/02-auditoria-datos.md), [Data Room](comercial/pilotos/03-data-room.md) y [observatorio](comercial/pilotos/04-observatorio.md).
+Esto es un servicio de investigación contratado por un equipo que necesita decidir, publicar, auditar o preparar una controversia; **no es una solicitud de financiamiento para una idea**. Los [cuatro modelos de piloto](comercial/PILOTOS.md) fijan alcance, plazo, entregables, aceptación y precio orientativo. El punto de entrada más simple es un [Evidence Sprint](comercial/pilotos/01-evidence-sprint.md): una pregunta cerrada, búsqueda delimitada y un memo que muestra qué se puede sostener hoy y qué diligencia conviene hacer después. También hay [auditoría de datos](comercial/pilotos/02-auditoria-datos.md), [Data Room](comercial/pilotos/03-data-room.md) y [observatorio](comercial/pilotos/04-observatorio.md).
 
 El [análisis técnico-probatorio](comercial/SERVICIOS.md#análisis-técnico-probatorio) se encuadra como proyecto a medida: depende de los sistemas, custodios, registros disponibles y finalidad procesal o de auditoría. No se le asigna un precio estándar sin revisar esos extremos.
 
@@ -62,4 +66,4 @@ Este portafolio sigue las [salvaguardas de privacidad y publicación](salvaguard
 
 ---
 
-**Motor Pampa · práctica independiente · edición pública 2026-09-22.** Cada investigación declara su propio corte. Publicar el repositorio no concede licencia de reutilización del contenido: ver [LICENSE.md](LICENSE.md).
+**Motor Pampa · práctica independiente · edición pública 2026-09-23.** Cada investigación declara su propio corte. Publicar el repositorio no concede licencia de reutilización del contenido: ver [LICENSE.md](LICENSE.md).

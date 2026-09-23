@@ -2,13 +2,15 @@
 
 `SERIE CONSOLIDADA 2005–2024 / CORTE METODOLÓGICO 2026-09-17`
 
-La investigación combina estadísticas vitales, seguridad, vigilancia y registros provinciales sin sumarlos como si fueran observaciones independientes. La serie principal procede de [DEIS](https://www.argentina.gob.ar/salud/deis/datos/defunciones), con denominadores de [INDEC](https://www.indec.gob.ar/indec/web/Nivel3-Tema-2-24). Para mortalidad registrada se usa CIE-10 X60–X84. Las muertes de intención no determinada, Y10–Y34, se muestran aparte como prueba de sensibilidad; no se reclasifican automáticamente.
+La investigación construye una serie, **produce números propios** y contrasta estadísticas vitales, seguridad, vigilancia y registros provinciales sin sumarlos como si fueran observaciones independientes. La serie principal procede de [DEIS](https://www.argentina.gob.ar/salud/deis/datos/defunciones), con denominadores de [INDEC](https://www.indec.gob.ar/indec/web/Nivel3-Tema-2-24). Para mortalidad registrada se usa CIE-10 X60–X84. Las muertes de intención no determinada, Y10–Y34, se muestran aparte como prueba de sensibilidad; no se reclasifican automáticamente.
 
 ## Resultados que admiten publicación agregada
 
 - `[A]` En el universo de residentes de las 24 jurisdicciones, la serie DEIS pasa de **3.208** defunciones clasificadas como autoinfligidas en 2022 a **3.598** en 2024: 390 registros adicionales. El cambio de una cifra publicada no separa por sí mismo incidencia, captación y codificación.
-- `[A]` En el trienio 2022–2024, para residentes bonaerenses con partido conocido, la tasa cruda registrada fue **7,32** por 100.000 personas-año en el interior y **2,84** en los 40 partidos metropolitanos. Al agregar en una *prueba de sensibilidad* la categoría de intención no determinada, los valores son **21,71** y **21,18**. La segunda suma no estima suicidios ocultos ni elimina diferencias de edad.
-- `[A]` En la variación nacional 2022–2024, los grupos de 25 a 44 años aportan 318 de los 390 registros netos adicionales. En 15–24 años hubo 26 menos en esa ventana. El anuario oficial ubicó al suicidio como segunda causa de muerte en 15–24 años en 2024; no sustenta la frase “primera causa para todos los jóvenes”.
+- `[A · cálculo propio]` En el trienio 2022–2024, para residentes bonaerenses con partido conocido, la tasa cruda registrada fue **7,32** por 100.000 personas-año en el interior y **2,84** en los 40 partidos metropolitanos. Al agregar en una *prueba de sensibilidad* la categoría de intención no determinada, los valores son **21,71** y **21,18**. La segunda suma no estima suicidios ocultos ni elimina diferencias de edad.
+- `[A · cálculo propio]` En la variación nacional 2022–2024, los grupos de 25 a 44 años aportan 318 de los 390 registros netos adicionales. En 15–24 años hubo 26 menos en esa ventana. El anuario oficial ubicó al suicidio como segunda causa de muerte en 15–24 años en 2024; no sustenta la frase “primera causa para todos los jóvenes”.
+
+Además de esas cuentas, el trabajo calculó tasas por edad y sexo, razones estandarizadas, años potenciales de vida perdidos, tendencia mediante modelos de Poisson, intervalos por remuestreo, contribución territorial al cambio y pruebas de quiebre en la clasificación. Son **estimaciones de Motor Pampa sobre registros oficiales**, no indicadores publicados por esos organismos. La crítica metodológica es parte del resultado: un cambio en la codificación, la cobertura del SNVS o el flujo de datos entre sistemas puede alterar la comparación sin que eso mida automáticamente un cambio en la incidencia real.
 
 ## Cuatro sistemas, cuatro preguntas
 
