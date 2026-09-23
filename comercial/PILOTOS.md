@@ -20,8 +20,10 @@ Una primera contratación debería responder una pregunta concreta, mostrar el m
 
 En los cuatro casos se acuerdan por escrito la pregunta, el universo, la fecha de corte, el destinatario de la entrega y el criterio de aceptación. Se incluye una reunión inicial y una ronda de correcciones de errores o aclaraciones dentro del alcance; nuevos sujetos, períodos o fuentes se presupuestan aparte.
 
+Si el encargo exige [análisis técnico-probatorio](SERVICIOS.md#análisis-técnico-probatorio) de sistemas, exportaciones o logs para una controversia, se define un proyecto separado: primero hay que precisar custodio, autorización, acceso, preservación, alcance y revisión jurídica o pericial. No se presume incluido en el precio de estos pilotos.
+
 ## Límites comunes
 
-Sólo se usan fuentes públicas o materiales aportados legítimamente por el cliente para la finalidad acordada. No se ofrece acceso no autorizado, vigilancia personal, adquisición de filtraciones, asesoramiento legal, diagnóstico clínico, peritaje forense ni publicación automática. Una búsqueda sin resultado se documenta como tal; no se convierte en prueba de inexistencia. El tratamiento de datos personales y la eventual publicación se revisan antes de recibir material sensible.
+Sólo se usan fuentes públicas o materiales aportados legítimamente por el cliente para la finalidad acordada. Estos pilotos no incluyen acceso no autorizado, vigilancia personal, adquisición de filtraciones, asesoramiento legal, diagnóstico clínico, extracción forense de dispositivos, dictamen pericial judicial ni publicación automática. Una búsqueda sin resultado se documenta como tal; no se convierte en prueba de inexistencia. El tratamiento de datos personales y la eventual publicación se revisan antes de recibir material sensible.
 
 Para discutir un piloto, alcanza con un brief de cinco líneas: **pregunta, decisión que depende de ella, fuentes conocidas, plazo deseado y restricciones de privacidad**. No enviar nombres de personas vulnerables, expedientes completos ni archivos sensibles por un issue público de GitHub.

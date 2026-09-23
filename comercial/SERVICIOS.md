@@ -26,6 +26,14 @@ Normalización, control de calidad y análisis reproducible de registros oficial
 
 Entrega: base documentada, diccionario, QA, tablas, límites y recomendaciones de mejora.
 
+## Análisis técnico-probatorio
+
+Preparación y examen documentado de registros digitales para una auditoría, investigación o controversia. Puede abarcar inventario de sistemas y custodios, protocolo de preservación, hashes de exportaciones, cotejo de versiones, conciliación de lotes migrados y rechazados, y reconstrucción de una secuencia de eventos a partir de logs obtenidos legítimamente.
+
+Entrega: plan de preservación y requerimientos técnicos, matriz origen–destino, controles reproducibles, cronología de eventos e informe que separa lo observado de lo que todavía requiere acceso o corroboración. El [caso IOSFA](../investigaciones/iosfa.md) muestra el diseño de una arquitectura de prueba y sus límites; no implica que Motor Pampa haya accedido a los sistemas internos allí enumerados.
+
+Se cotiza como proyecto a medida y puede producir insumos para abogados o peritos. No sustituye una pericia judicial, una extracción forense bajo autoridad competente ni la evaluación de admisibilidad que corresponde al proceso y la jurisdicción.
+
 ## Modos de contratación
 
 | Modalidad | Adecuada para | Cierre |

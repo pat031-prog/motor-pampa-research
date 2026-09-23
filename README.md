@@ -2,7 +2,7 @@
 
 ### Si una conclusión importa, mostremos los documentos.
 
-Investigación documental OSINT y auditoría de datos públicos en Argentina. Reconstruimos hechos a partir de fuentes dispersas y entregamos una ruta verificable desde cada afirmación hasta su respaldo. También señalamos lo que falta, contradice o todavía no puede afirmarse.
+Investigación documental OSINT, auditoría de datos y análisis técnico-probatorio en Argentina. Reconstruimos hechos a partir de fuentes dispersas y entregamos una ruta verificable desde cada afirmación hasta su respaldo. También señalamos lo que falta, contradice o todavía no puede afirmarse.
 
 ![Portada de Motor Pampa](presentacion/preview.png)
 
@@ -20,6 +20,9 @@ Motor Pampa ordena ese trabajo para estudios jurídicos, equipos de compliance, 
 | Revisar un corpus sin perder versiones | Índice, hashes, procedencia y bitácora de un data room |
 | Usar una cifra pública con confianza | Base depurada, controles, análisis reproducible y límites |
 | Detectar cambios relevantes | Observatorio de fuentes con alertas justificadas |
+| Preparar registros digitales para una controversia o auditoría | Plan de preservación, inventario de sistemas, cotejo de versiones y lotes, controles de integridad e informe técnico para revisión jurídica o pericial, según los materiales disponibles |
+
+Esta última línea puede servir de insumo en un litigio, pero **no equivale por sí sola a una pericia judicial ni garantiza admisibilidad**. El acceso a sistemas, la custodia y las diligencias formales se acuerdan con quien tenga competencia y autorización.
 
 ## La prueba está a la vista
 
@@ -30,12 +33,15 @@ Estas páginas son una edición pública del trabajo; enlazan originales en sus 
 | [Cannava](investigaciones/cannava.md) | Contratos y presentaciones regulatorias de varios países; dos rutas contractuales que **no** se unen sin el instrumento faltante. |
 | [Acceso a la información](investigaciones/acceso-informacion.md) | Auditoría de 62.311 solicitudes y por qué “expediente alojado en una repartición” no equivale a “organismo que debía responder”. |
 | [Suicidios](investigaciones/suicidios.md) | Serie 2005–2024 y contraste entre registros sin sumarlos como observaciones independientes ni exponer personas. |
+| [IOSFA](investigaciones/iosfa.md) | Dos cortes administrativos y un protocolo técnico para preservar logs, cotejar migraciones y documentar qué prueba faltaría para evaluar continuidad prestacional. |
 
-También están [Cerimedo](investigaciones/cerimedo.md), [IOSFA](investigaciones/iosfa.md) y el [mapa científico del cannabis en Argentina](investigaciones/cannabis-ciencia.md). Los [tres casos demostrativos](casos/) muestran el formato de entrega sin publicar material sensible.
+También están [Cerimedo](investigaciones/cerimedo.md) y el [mapa científico del cannabis en Argentina](investigaciones/cannabis-ciencia.md). Los [tres casos demostrativos](casos/) muestran el formato de entrega sin publicar material sensible.
 
 ## Empezar con una pregunta, no con un contrato enorme
 
 Los [cuatro modelos de piloto](comercial/PILOTOS.md) fijan alcance, plazo, entregables, aceptación y precio orientativo. El punto de entrada más simple es un [Evidence Sprint](comercial/pilotos/01-evidence-sprint.md): una pregunta cerrada, búsqueda delimitada y un memo que muestra qué se puede sostener hoy y qué diligencia conviene hacer después. También hay [auditoría de datos](comercial/pilotos/02-auditoria-datos.md), [Data Room](comercial/pilotos/03-data-room.md) y [observatorio](comercial/pilotos/04-observatorio.md).
+
+El [análisis técnico-probatorio](comercial/SERVICIOS.md#análisis-técnico-probatorio) se encuadra como proyecto a medida: depende de los sistemas, custodios, registros disponibles y finalidad procesal o de auditoría. No se le asigna un precio estándar sin revisar esos extremos.
 
 Para encuadrar un proyecto hacen falta cinco datos: **pregunta, decisión que depende de ella, fuentes conocidas, plazo y restricciones de privacidad**. Con eso se define un brief y una cotización escrita. La [presentación](presentacion/README.md) y las [fichas de servicio](comercial/SERVICIOS.md) sirven para circular internamente antes de una reunión.
 

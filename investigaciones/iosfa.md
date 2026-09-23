@@ -23,6 +23,8 @@ El [Decreto 88/2026](https://www.argentina.gob.ar/normativa/nacional/decreto-88-
 
 Las fuentes jurisdiccionales y las auditorías institucionales documentan problemas y episodios particulares, pero no constituyen por sí mismas un denominador nacional de daño clínico. El núcleo técnico es preservar exportaciones y bitácoras de SIP/GDE, SIACC, SGPS, SUA y sistemas auxiliares; documentar borrados y actualizaciones masivas; y conciliar los lotes aceptados y rechazados en la transferencia IOSFA→OSFA/OSFFESEG. La base de prestaciones debe quedar bajo custodia competente y con privacidad sanitaria.
 
+El protocolo identifica sistemas y custodios, propone snapshots de origen y destino con hash SHA-256, conteos de control, reglas de transformación, excepciones y actas de aceptación o rechazo. Es una **arquitectura de preservación y contraste para una eventual auditoría o litigio**, no constancia de que se hayan recibido los logs internos, ejecutado una extracción forense o producido una pericia judicial. El cotejo efectivo requeriría acceso legítimo a esos registros y supervisión técnica y jurídica apropiada.
+
 ## Conclusión acotada
 
 `[A]` Hay un patrón medible de mora en el registro público y una divergencia de identificación entre sujeto canónico y repartición. `[B]` La transición vuelve prioritario preservar datos y reconstruir la cadena de custodia. No se ha demostrado con esta serie que todos los afiliados hayan sufrido el mismo daño prestacional. Esa afirmación requiere los registros internos, denominadores compatibles y revisión jurídica específica.
