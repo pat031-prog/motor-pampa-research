@@ -13,7 +13,7 @@ La [presentación actual](Motor_Pampa_Research_2026-09-23.pptx) es un deck edita
 5. Estándar de evidencia.
 6. Suicidios: serie, números propios y contraste de registros.
 7. Cannava: documentos primarios, reconstrucción societaria y dos rutas de derechos.
-8. Observatorio Cannis: auditoría adversarial de un dossier.
+8. Observatorio sectorial: auditoría adversarial de un dossier.
 9. Pilotos y proyectos técnico-probatorios a medida.
 10. Rutas de mercado.
 11. Piloto propuesto.

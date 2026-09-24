@@ -30,7 +30,7 @@ Una aplicación concreta es el [benchmark de acceso a la información](../invest
 
 ## Auditoría adversarial de informes
 
-Revisión de una investigación, cifra o dossier antes de publicarlo o usarlo para decidir. Se reproducen filtros y cálculos, se confrontan afirmaciones con documentos primarios y se distinguen errores, universos incompletos y desacuerdos interpretativos. El [Observatorio Cannis](../investigaciones/observatorio-cannis.md) muestra una revisión que retiró una cifra simulada y corrigió un proxy temático demasiado amplio.
+Revisión de una investigación, cifra o dossier antes de publicarlo o usarlo para decidir. Se reproducen filtros y cálculos, se confrontan afirmaciones con documentos primarios y se distinguen errores, universos incompletos y desacuerdos interpretativos. La [auditoría de un observatorio sectorial](../investigaciones/observatorio-cannis.md) muestra una revisión que retiró una cifra simulada y corrigió un proxy temático demasiado amplio.
 
 Entrega: matriz afirmación–fuente, prueba de reproducción, lista priorizada de correcciones y versión con límites explícitos.
 

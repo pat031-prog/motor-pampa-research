@@ -1,4 +1,4 @@
-# Observatorio Cannis: auditar el informe antes de ampliar el mapa
+# Observatorio sectorial: auditar el informe antes de ampliar el mapa
 
 `CORTE DE AUDITORÍA / 2026-06-21` · `CORTE DE MAPAS / 2026-06-22`
 

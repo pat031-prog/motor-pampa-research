@@ -9,8 +9,8 @@ El primer lanzamiento de este repositorio sólo mostraba tres casos anónimos. E
 | [Cerimedo, campaña y sociedades](cerimedo.md) | CNE, FARA, avisos societarios y correcciones del legajo | 30-08-2026 |
 | [Cannava y la reconstrucción societaria](cannava.md) | Contratos SEC, dos corredores, BBV/SATIN/Blueberries y documentos faltantes | 04-09-2026 |
 | [IOSFA: mora y arquitectura probatoria](iosfa.md) | Dos cortes SIP, transiciones institucionales y prueba aún requerida | 20-07-2026 |
-| [Mapa científico e institucional del cannabis](cannabis-ciencia.md) | Once mapas, publicaciones, instituciones, ensayos y brechas regulatorias | 22-06-2026 |
-| [Observatorio Cannis: auditoría del dossier](observatorio-cannis.md) | Revisión de proxies, objetos recuperables, cifras simuladas y secuencia normativa | 22-06-2026 |
+| [Mapa científico e institucional](cannabis-ciencia.md) | Once mapas, publicaciones, instituciones, ensayos y brechas regulatorias | 22-06-2026 |
+| [Observatorio sectorial: auditoría del dossier](observatorio-cannis.md) | Revisión de proxies, objetos recuperables, cifras simuladas y secuencia normativa | 22-06-2026 |
 | [Acceso a la información](acceso-informacion.md) | Estadísticas agregadas por sujeto obligado y límites de cada denominador | 02-06-2026 |
 | [Suicidios: registro, territorio y respuesta](suicidios.md) | Series DEIS, contraste de sistemas y notas de calidad del dato | 17-09-2026 |
 

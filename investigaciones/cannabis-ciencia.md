@@ -1,6 +1,6 @@
-# Cannabis en Argentina: mapa científico e institucional
+# Mapa científico e institucional
 
-`OBSERVATORIO CANNIS / CORTE 2026-06-22`
+`CORTE DEL MAPA / 2026-06-22`
 
 El observatorio integra once mapas: acceso a información; recuperación documental; presupuesto; REPROCANN; INASE; ciencia y ensayos; provincias; ANMAT/INAME; compras; comercio exterior; y actividad parlamentaria. Cada mapa define una unidad de análisis distinta. La existencia de una norma, publicación, convocatoria o anuncio no equivale a producto autorizado, compra ejecutada, entrega o exportación atribuible a una empresa.
 

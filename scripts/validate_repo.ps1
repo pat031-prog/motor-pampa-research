@@ -6,20 +6,24 @@ $repoRoot = Split-Path -Parent $PSScriptRoot
 $errors = [System.Collections.Generic.List[string]]::new()
 
 $buyersPath = Join-Path $repoRoot 'comercial\mapa_compradores.csv'
-$buyers = Import-Csv -LiteralPath $buyersPath
-if ($buyers.Count -ne 30) {
-  $errors.Add("El mapa debe contener 30 filas y contiene $($buyers.Count).")
-}
-
-$ranks = @($buyers | ForEach-Object { [int]$_.rank })
-if (($ranks | Sort-Object -Unique).Count -ne $buyers.Count) {
-  $errors.Add('El mapa contiene ranks duplicados.')
-}
-
-foreach ($required in 1..10) {
-  if ($required -notin $ranks) {
-    $errors.Add("Falta el rank $required.")
+$buyersResult = 'mapa comercial interno omitido'
+if (Test-Path -LiteralPath $buyersPath) {
+  $buyers = Import-Csv -LiteralPath $buyersPath
+  if ($buyers.Count -ne 30) {
+    $errors.Add("El mapa debe contener 30 filas y contiene $($buyers.Count).")
   }
+
+  $ranks = @($buyers | ForEach-Object { [int]$_.rank })
+  if (($ranks | Sort-Object -Unique).Count -ne $buyers.Count) {
+    $errors.Add('El mapa contiene ranks duplicados.')
+  }
+
+  foreach ($required in 1..10) {
+    if ($required -notin $ranks) {
+      $errors.Add("Falta el rank $required.")
+    }
+  }
+  $buyersResult = 'mapa comercial interno validado'
 }
 
 $markdownFiles = Get-ChildItem -LiteralPath $repoRoot -Recurse -File -Filter '*.md' |
@@ -77,4 +81,4 @@ if ($errors.Count) {
   exit 1
 }
 
-Write-Output "OK: 30 compradores, ranks únicos, siete investigaciones, enlaces locales válidos y sin patrones de secretos."
+Write-Output "OK: $buyersResult, siete investigaciones, enlaces locales válidos y sin patrones de secretos."

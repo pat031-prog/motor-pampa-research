@@ -44,8 +44,8 @@ Estas páginas son una edición pública del trabajo; enlazan originales en sus 
 | [Acceso a la información](investigaciones/acceso-informacion.md) | 62.311 solicitudes y 4.451 reclamos: proporciones de vencimiento por sujeto obligado, circuitos de demora y una base para preparar reclamos y litigios con el expediente individual. |
 | [Suicidios](investigaciones/suicidios.md) | Serie 2005–2024, cálculos propios de tasas y cambios, y contraste crítico de DEIS, SNIC, SNVS y MPA sin duplicar hechos ni exponer personas. |
 | [IOSFA](investigaciones/iosfa.md) | Dos cortes administrativos y un protocolo técnico para preservar logs, cotejar migraciones y documentar qué prueba faltaría para evaluar continuidad prestacional. |
-| [Observatorio Cannis](investigaciones/observatorio-cannis.md) | Auditoría adversarial de un dossier: proxies temáticos, objetos no recuperados, cifras simuladas y cronología normativa corregida. |
-| [Mapa científico del cannabis](investigaciones/cannabis-ciencia.md) | Once capas de ciencia, ensayos, regulación, compras y territorio; 214 publicaciones candidatas y 121 instituciones argentinas identificadas por metadatos, con brechas de enlace documentadas. |
+| [Auditoría de un observatorio sectorial](investigaciones/observatorio-cannis.md) | Revisión adversarial de un dossier: proxies temáticos, objetos no recuperados, cifras simuladas y cronología normativa corregida. |
+| [Mapa científico e institucional](investigaciones/cannabis-ciencia.md) | Once capas de ciencia, ensayos, regulación, compras y territorio; 214 publicaciones candidatas y 121 instituciones argentinas identificadas por metadatos, con brechas de enlace documentadas. |
 
 Los [tres casos demostrativos](casos/) muestran el formato de entrega sin publicar material sensible. La [matriz de capacidades](CAPACIDADES.md) permite revisar técnicas y resultados por separado.
 

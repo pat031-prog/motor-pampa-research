@@ -7,3 +7,21 @@ presentacion/_build/
 .codex-finalizer/
 .DS_Store
 Thumbs.db
+
+# Archivos locales, credenciales y salidas de herramientas.
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+node_modules/
+*.log
+*.pem
+*.p12
+*.pfx
+
+# Inteligencia comercial y correspondencia de prospección: uso interno.
+comercial/mapa_compradores.csv
+comercial/primeros_10.md
+comercial/mensajes/
