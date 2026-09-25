@@ -6,6 +6,12 @@ El observatorio integra once mapas: acceso a información; recuperación documen
 
 Antes de ampliar estos mapas, el equipo [auditó el dossier previo](observatorio-cannis.md): corrigió un proxy de reclamos demasiado amplio, registró los objetos no recuperados y retiró cifras presupuestarias simuladas. Esa depuración forma parte del resultado, no sólo de la cocina metodológica.
 
+## Cómo se conectan capas que no significan lo mismo
+
+Cada mapa conserva su propia unidad: un trabajo bibliográfico, un registro de ensayo, un cultivar, una convocatoria, una norma o un proyecto legislativo. Se deduplican candidatos **dentro de su capa** y sólo se trazan enlaces entre capas cuando identificadores, fechas y documentos permiten sostenerlos. Una afiliación institucional en metadatos no acredita que esa institución haya fabricado un producto; una compra convocada no acredita entrega.
+
+La salida útil no es sumar once números heterogéneos, sino localizar **dónde existe un puente verificable y dónde falta**: entre investigación y ensayo, ensayo y autorización, autorización y operador, operador y compra, o anuncio y ejecución. Ese mapa de brechas orienta la siguiente búsqueda documental y deja visible la incertidumbre. Ver [del archivo al hallazgo](../metodologia/DEL_ARCHIVO_AL_HALLAZGO.md).
+
 ## Ciencia y capacidad visible
 
 El barrido de [OpenAlex](https://openalex.org/) registró **214 trabajos candidatos únicos** con afiliación argentina y vocabulario temático, asociados a **121 instituciones argentinas**. Son metadatos bibliográficos: el recuento depende de indexación, consulta y deduplicación. No mide por sí solo impacto clínico, financiamiento vigente ni transferencia industrial. El [Sistema Nacional de Repositorios Digitales](https://repositoriosdigitales.mincyt.gob.ar/vufind/) aportó **286 registros candidatos** después de filtrar títulos y deduplicar URLs.

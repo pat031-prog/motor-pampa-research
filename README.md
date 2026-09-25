@@ -6,13 +6,26 @@ Investigación documental OSINT, auditoría de datos y análisis técnico-probat
 
 ![Portada de Motor Pampa](presentacion/preview.png)
 
-**[Ver capacidades demostradas](CAPACIDADES.md) · [Abrir las siete investigaciones](investigaciones/README.md) · [Explorar cuatro pilotos](comercial/PILOTOS.md) · [Leer el método](metodologia/METODO.md) · [Abrir la presentación](presentacion/Motor_Pampa_Research_2026-09-23.pptx)**
+**[Ver el motor por dentro](metodologia/DEL_ARCHIVO_AL_HALLAZGO.md) · [Capacidades demostradas](CAPACIDADES.md) · [Siete investigaciones](investigaciones/README.md) · [Cuatro pilotos](comercial/PILOTOS.md) · [Presentación](presentacion/Motor_Pampa_Research_2026-09-23.pptx)**
 
 ## No son sólo búsquedas OSINT
 
 El trabajo público permite seguir una **cadena contractual y societaria internacional** hasta sus instrumentos originales; examinar técnicamente un PDF regulatorio; reconstruir un legajo electoral sin convertir indicios en hechos; recalcular proporciones sobre **62.311 solicitudes de acceso a la información**; comparar dos cortes de expedientes IOSFA y definir qué registros internos habría que preservar; y producir **estadística propia** sobre suicidios contrastando sistemas que no miden lo mismo. También auditamos un dossier previo hasta encontrar y corregir filtros demasiado amplios, cobertura incompleta y una cifra simulada.
 
 La [matriz de capacidades demostradas](CAPACIDADES.md) enlaza cada operación con su caso y aclara qué fue ejecutado y qué es un protocolo preparado para una diligencia futura. Para una revisión técnica rápida: [Cannava](investigaciones/cannava.md) (documentos y derechos), [Acceso a la información](investigaciones/acceso-informacion.md) (base y denominadores), [IOSFA](investigaciones/iosfa.md) (serie y arquitectura probatoria) y [Suicidios](investigaciones/suicidios.md) (cálculos y comparabilidad).
+
+## Así se ve el motor
+
+El valor no está sólo en encontrar una pieza difícil. Está en poder explicar qué ocurrió **entre esa pieza y la conclusión**, y en detectar cuándo la conclusión todavía no se sostiene.
+
+```text
+fuente original → registro y preservación → normalización → cruces y controles
+                → afirmaciones graduadas → expediente revisable
+```
+
+En [Cannava](investigaciones/cannava.md), ese recorrido ordenó 25 actos y dejó 27 instrumentos o comprobaciones pendientes sin cerrar artificialmente una cadena contractual. En [acceso a la información](investigaciones/acceso-informacion.md), convirtió 62.311 filas en comparaciones con sujeto, repartición, cohorte, numerador y denominador explícitos. En [suicidios](investigaciones/suicidios.md), produjo cálculos propios y mostró por qué cuatro registros no pueden sumarse. En la [auditoría de un observatorio](investigaciones/observatorio-cannis.md), el mismo método obligó a corregir y retirar cifras del trabajo previo.
+
+La [traza pública del proceso](metodologia/DEL_ARCHIVO_AL_HALLAZGO.md) muestra entradas, controles y salidas de las siete investigaciones. No publica la infraestructura interna ni datos sensibles. Para una evaluación técnica se puede recorrer una muestra local acotada y contrastar originales, derivados, manifiesto y tests bajo un alcance acordado.
 
 ## El problema que resolvemos
 
@@ -47,7 +60,7 @@ Estas páginas son una edición pública del trabajo; enlazan originales en sus 
 | [Auditoría de un observatorio sectorial](investigaciones/observatorio-cannis.md) | Revisión adversarial de un dossier: proxies temáticos, objetos no recuperados, cifras simuladas y cronología normativa corregida. |
 | [Mapa científico e institucional](investigaciones/cannabis-ciencia.md) | Once capas de ciencia, ensayos, regulación, compras y territorio; 214 publicaciones candidatas y 121 instituciones argentinas identificadas por metadatos, con brechas de enlace documentadas. |
 
-Los [tres casos demostrativos](casos/) muestran el formato de entrega sin publicar material sensible. La [matriz de capacidades](CAPACIDADES.md) permite revisar técnicas y resultados por separado.
+Los [tres casos demostrativos](casos/) muestran el formato de entrega sin publicar material sensible. La [traza de trabajo](metodologia/DEL_ARCHIVO_AL_HALLAZGO.md) y la [matriz de capacidades](CAPACIDADES.md) permiten revisar técnicas y resultados por separado.
 
 ## Empezar con una pregunta, no con un contrato enorme
 

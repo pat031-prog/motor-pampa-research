@@ -4,6 +4,12 @@
 
 El legajo reconstruye tres planos que suelen confundirse: el informe de auditoría electoral de la campaña PASO 2023, los avisos de constitución y modificación de sociedades, y las declaraciones registradas en Estados Unidos. También examina la posible contratación pública de empresas relacionadas. El archivo de trabajo contenía 195 entradas en su manifiesto, 194 rutas únicas y ninguna divergencia de hash al cierre; esos originales y capturas no se copian a este repositorio.
 
+## Cómo se armó el expediente
+
+El primer control fue **separar universos**: una observación de auditores electorales no es una decisión judicial; un aviso de sociedad fija un acto publicado, no su actividad real; un memo FARA documenta una declaración, no prueba cualquier vínculo sugerido a partir de ella. Cada pieza quedó fechada y atribuida a su emisor antes de cruzar personas, roles y sociedades. El manifiesto permitió controlar versiones y volver al archivo exacto cuando una afirmación parecía más fuerte que su fuente.
+
+La salida no es un grafo de nombres cercanos, sino una cronología con afirmaciones sostenidas, otras retiradas y una lista de documentos decisivos que faltan. Por eso el trabajo puede resultar útil también cuando **desarma** una hipótesis atractiva. La [arquitectura pública](../metodologia/DEL_ARCHIVO_AL_HALLAZGO.md) muestra cómo se distingue extracción, cruce e inferencia; el corpus y la operativa interna permanecen fuera de GitHub.
+
 ## Hechos que sobreviven a la revisión
 
 - `[A]` El [dictamen del Cuerpo de Auditores de la Cámara Nacional Electoral, expediente 6181/2023](https://www.electoral.gob.ar/nuevo/paginas/pdf/judicial_jurisprudencia/2025/dictamen%20de%20auditoria/dictamen%206181-2023.pdf) registra a Fernando Cerimedo como responsable tecnológico de la alianza y un aporte en especie. Los auditores pidieron documentación y explicaciones sobre rubros de campaña. Es un dictamen, no la resolución final del expediente ni una condena.

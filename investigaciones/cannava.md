@@ -4,6 +4,12 @@
 
 Esta investigación llegó a los **instrumentos primarios**, no sólo a notas que los citan: el convenio de 2018 entre Cannava S.E. y Players Network (PNTV), contratos exhibidos ante la SEC, el SPA publicado por la CSE y boletines societarios de Jujuy. Con ellos reconstruimos partes, derechos, cambios de control y la estructura BBV Labs–SATIN–Blueberries. El resultado más importante es una distinción jurídica concreta: el corredor PNTV–Cannava y el acuerdo directo BBV Labs–Cannava descrito después son dos rutas; el archivo público revisado no contiene el instrumento que permita unirlas. El legajo preserva facsímiles, presentaciones regulatorias, boletines y manifiestos; esta página enlaza los originales abiertos y conserva las condiciones de lectura.
 
+## Qué hay entre los documentos y la conclusión
+
+La reconstrucción no salió de buscar nombres en la web. Ordenamos **25 actos documentales** por fecha, parte, derecho o efecto y fuente, y llevamos **27 instrumentos o comprobaciones pendientes** a una lista separada. Una cláusula firmada, un aviso societario y lo que una emisora declara en un balance no reciben el mismo peso. Esa distinción permite seguir cambios de control sin inventar una cesión contractual.
+
+El expediente se puede recorrer en tres capas: los originales enlazados abajo; la cronología de partes y derechos que separa el corredor PNTV del corredor BBV; y el registro de ausencias que señala exactamente qué instrumento permitiría —o impediría— conectar ambos. El control adversarial fue preguntar si cada salto exigía consentimiento, ejecución o un documento todavía no localizado. El [recorrido público del motor](../metodologia/DEL_ARCHIVO_AL_HALLAZGO.md) explica la forma de trabajo sin publicar la matriz interna ni los documentos de terceros en bloque.
+
 ## Ruta de los documentos primarios
 
 | Documento | Qué prueba | Qué no prueba |

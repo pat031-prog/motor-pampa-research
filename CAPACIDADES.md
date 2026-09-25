@@ -2,6 +2,8 @@
 
 Esta página está pensada para quien evalúa el trabajo técnico antes de una reunión. No enumera herramientas en abstracto: cada capacidad remite a una investigación publicada, una operación concreta y una pieza que se puede revisar. El repositorio es una **edición pública**; los originales de terceros se enlazan en sus custodios y el corpus interno no se vuelca aquí.
 
+Motor Pampa funciona como una **cadena de evidencia y análisis**, no como un único scraper o un informe aislado. La [traza pública de esa cadena](metodologia/DEL_ARCHIVO_AL_HALLAZGO.md) permite seguir ingesta, preservación, normalización, cruces, control adversarial y expediente sin revelar las reglas internas ni exponer el corpus.
+
 | Capacidad | Trabajo efectivamente realizado | Dónde revisarlo |
 |---|---|---|
 | Localización y lectura de documentos primarios | Recuperamos el contrato Cannava–PNTV de 2018, exhibits SEC, un SPA del archivo CSE y boletines societarios; distinguimos texto firmado, declaración regulatoria y ejecución todavía no acreditada. | [Cannava: ruta de documentos](investigaciones/cannava.md#ruta-de-los-documentos-primarios) |
@@ -14,6 +16,18 @@ Esta página está pensada para quien evalúa el trabajo técnico antes de una r
 | Contraste de registros no equivalentes | Comparamos DEIS, SNIC, SNVS y fuentes provinciales sin sumarlos como hechos independientes ni convertir discrepancias en una cifra inventada de subregistro. | [Suicidios: cuatro sistemas](investigaciones/suicidios.md#cuatro-sistemas-cuatro-preguntas) |
 | Auditoría adversarial de una investigación | Reprodujimos filtros y cuentas de un dossier, corregimos un proxy temático, hicimos visible la cobertura incompleta de objetos y retiramos una cifra originada en una simulación. | [Auditoría de un observatorio sectorial: tres correcciones](investigaciones/observatorio-cannis.md#tres-correcciones-que-importan) |
 | Mapeo científico e institucional | Enlazamos once capas de ciencia, ensayos, regulación, compras, provincias y actividad parlamentaria; diferenciamos metadatos candidatos, autorizaciones, anuncios y ejecución. | [Mapa científico e institucional](investigaciones/cannabis-ciencia.md) |
+
+## Capacidades que atraviesan varios casos
+
+| Capacidad repetible | Evidencia de uso | Para qué le sirve a otro equipo |
+|---|---|---|
+| Trazabilidad documental | Manifiesto de Cerimedo; contratos y boletines de Cannava; originales enlazados en cada caso | Revisar una afirmación desde el informe hasta el documento y su fecha de corte |
+| Normalización de identidades y unidades | Partes y roles en Cannava/Cerimedo; sujeto obligado frente a repartición actual en AAIP/IOSFA; unidad de conteo en suicidios | Evitar falsos vínculos, rankings engañosos y cruces de registros incompatibles |
+| Procesamiento de corpus y datos | 62.311 solicitudes AAIP; series de mortalidad; metadatos científicos candidatos | Pasar de archivos dispersos a tablas y medidas auditables, conservando faltantes y excepciones |
+| Control adversarial | Afirmaciones retiradas en Cerimedo; proxy y cifra simulada corregidos en el observatorio; sensibilidad de clasificación en suicidios | Saber qué conclusión resiste una revisión escéptica antes de publicarla o usarla |
+| Construcción de ruta probatoria | Instrumentos pendientes en Cannava; plan de sistemas y lotes IOSFA; recorrido administrativo AAIP | Convertir el vacío documental en un pedido preciso para el custodio o el equipo jurídico |
+
+Estas son capacidades **observadas en los trabajos citados**, no la promesa de que cualquier soporte o sistema puede procesarse sin preparación. El formato, volumen, permisos y riesgo de un encargo nuevo se revisan antes de ofrecer alcance o plazos.
 
 ## Lo que un equipo puede recibir
 

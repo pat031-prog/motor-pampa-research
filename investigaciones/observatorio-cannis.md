@@ -4,6 +4,12 @@
 
 Esta línea empezó con una pregunta incómoda: ¿las cifras y relaciones de un dossier previo resistían el regreso a sus fuentes? El trabajo revisó bases de acceso a la información, documentos regulatorios, presupuesto y catálogos sectoriales. Algunas señales sobrevivieron; otras cambiaron de significado al corregir el universo, recuperar el objeto de los expedientes o revisar el código que producía una cifra. El [mapa científico e institucional](cannabis-ciencia.md) es una ampliación posterior, no un sustituto de esta auditoría.
 
+## El pipeline también sirve para corregirse
+
+Partimos de cada afirmación del dossier, volvimos al filtro o cálculo que la había generado y comparamos su **universo real** con el universo que decía representar. Cuando faltaba el objeto de un reclamo, la fila quedó como no clasificada; cuando el número salía de una simulación, salió del informe. El control no se limitó a comprobar aritmética: revisó si las fuentes, fechas y definiciones autorizaban la frase que se quería publicar.
+
+El producto es una bitácora de cambios de criterio, cobertura y conclusiones, además del mapa ampliado. En investigaciones complejas, mostrar dónde se corrigió una cifra es parte de la calidad del resultado. El [recorrido público](../metodologia/DEL_ARCHIVO_AL_HALLAZGO.md) sitúa esta revisión adversarial entre el cruce de datos y la entrega.
+
 ## Tres correcciones que importan
 
 | Afirmación que había que comprobar | Resultado del cotejo | Consecuencia editorial |

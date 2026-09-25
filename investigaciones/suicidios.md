@@ -4,6 +4,12 @@
 
 La investigación construye una serie, **produce números propios** y contrasta estadísticas vitales, seguridad, vigilancia y registros provinciales sin sumarlos como si fueran observaciones independientes. La serie principal procede de [DEIS](https://www.argentina.gob.ar/salud/deis/datos/defunciones), con denominadores de [INDEC](https://www.indec.gob.ar/indec/web/Nivel3-Tema-2-24). Para mortalidad registrada se usa CIE-10 X60–X84. Las muertes de intención no determinada, Y10–Y34, se muestran aparte como prueba de sensibilidad; no se reclasifican automáticamente.
 
+## Qué hay detrás de las cifras propias
+
+Los archivos oficiales se llevan primero a tablas con año, jurisdicción, residencia, edad, sexo, clasificación y unidad de conteo explícitas. Recién entonces se calculan tasas con población compatible, cambios entre cortes y análisis de sensibilidad. Por ejemplo, poner Y10–Y34 junto a X60–X84 es un **escenario de contraste**, no una recodificación de personas ni una estimación de casos ocultos. Los controles conservan las filas de entrada, los criterios y las salidas para poder repetir una cuenta o descubrir dónde deja de ser comparable.
+
+La segunda capa enfrenta sistemas que responden preguntas distintas: defunciones, víctimas en seguridad, intentos notificados e intervenciones provinciales. La coincidencia entre registros dependientes no cuenta como corroboración independiente. Esa crítica metodológica no es una nota al pie: determina qué número puede publicarse y qué afirmación debe quedar abierta. Ver la [arquitectura pública del motor](../metodologia/DEL_ARCHIVO_AL_HALLAZGO.md).
+
 ## Resultados que admiten publicación agregada
 
 - `[A]` En el universo de residentes de las 24 jurisdicciones, la serie DEIS pasa de **3.208** defunciones clasificadas como autoinfligidas en 2022 a **3.598** en 2024: 390 registros adicionales. El cambio de una cifra publicada no separa por sí mismo incidencia, captación y codificación.

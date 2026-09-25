@@ -4,6 +4,8 @@
 
 El primer lanzamiento de este repositorio sólo mostraba tres casos anónimos. Esta sección identifica siete líneas de investigación efectivamente trabajadas, sus resultados comprobables, documentos primarios accesibles y límites. Cada página distingue el corte del trabajo del estado actual de las instituciones: las cifras históricas no son un tablero en tiempo real.
 
+Cada caso ahora abre el **tramo intermedio** entre la fuente y el hallazgo: qué se normalizó, qué se cruzó, qué control obligó a acotar una afirmación y qué producto quedó para revisar. Para ver las siete rutas lado a lado, empezar por [Del archivo al hallazgo](../metodologia/DEL_ARCHIVO_AL_HALLAZGO.md).
+
 | Línea | Qué puede examinarse aquí | Corte del acervo |
 |---|---|---|
 | [Cerimedo, campaña y sociedades](cerimedo.md) | CNE, FARA, avisos societarios y correcciones del legajo | 30-08-2026 |

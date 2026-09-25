@@ -4,6 +4,12 @@
 
 La auditoría tomó **62.311 filas** del [dataset de solicitudes AAIP](https://datos.gob.ar/dataset/aaip-solicitudes-acceso-informacion-publica) y **4.451 reclamos** del [dataset de reclamos](https://datos.gob.ar/dataset/aaip-reclamos-sobre-solicitudes-acceso-informacion-publica). En el corte SIP había 59.560 registros `Resuelto`, 2.319 `Vencido`, 217 `En plazo` y 215 `En prórroga`. “Resuelto” significa que se comunicó una respuesta; no afirma que haya sido suficiente ni oportuna. “Vencido” es el estado publicado por la autoridad, sujeto a errores o retrasos de actualización.
 
+## Del registro a una medida que se pueda discutir
+
+El trabajo conserva una fila por solicitud y trata como campos distintos al **sujeto obligado**, la **repartición actual**, el estado y las fechas. Antes de comparar organismos se fijan el universo y la cohorte, se revisan denominaciones institucionales, se cuentan numeradores y denominadores y se registran los casos que no pueden atribuirse de forma inequívoca. El resultado público es una tabla agregada que permite recalcular cada proporción; no exige aceptar un ranking de caja negra.
+
+Hay además una segunda lectura del mismo corpus: seguir la ubicación y el último pase de los expedientes vencidos para formular preguntas sobre el circuito administrativo. Esa lectura no reemplaza el expediente individual ni identifica automáticamente quién demoró una respuesta. El [recorrido del motor](../metodologia/DEL_ARCHIVO_AL_HALLAZGO.md) describe por qué normalización, comparación y ruta de prueba son capas distintas.
+
 ## Comparación por sujeto obligado
 
 Se muestran sujetos con al menos 50 solicitudes, usando el nombre y estado atribuidos por la base al corte. La tasa es **vencidos registrados / solicitudes del sujeto en este archivo**; no es una probabilidad prospectiva de respuesta.

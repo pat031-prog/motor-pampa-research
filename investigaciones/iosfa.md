@@ -4,6 +4,12 @@
 
 El trabajo reúne dos frentes. El primero mide expedientes de acceso a la información asociados a IOSFA en el [dataset oficial de solicitudes AAIP](https://datos.gob.ar/dataset/aaip-solicitudes-acceso-informacion-publica). El segundo construye un protocolo para preservar y conciliar registros durante la transición a OSFA y OSFFESEG, establecida por el [Decreto 88/2026](https://www.argentina.gob.ar/normativa/nacional/decreto-88-2026-422981/texto).
 
+## Dos trabajos técnicos, una frontera explícita
+
+En el frente **ejecutado**, normalizamos la identidad del sujeto obligado, mantuvimos aparte la repartición donde hoy está alojado el trámite y comparamos el mismo expediente en dos cortes SIP. Esa estructura permite preguntar si cambió su estado o último pase sin confundir un stock nuevo con la cohorte que ya existía. La tabla siguiente muestra por qué tres números correctos pueden responder a tres preguntas distintas.
+
+En el frente **diseñado para una diligencia futura**, bajamos la continuidad prestacional a subclases, sistemas, custodios y controles de conciliación origen–destino: qué exportación pedir, qué lote comparar, qué excepción registrar y qué bitácora preservaría una secuencia de eventos. No convertimos ese plan en la afirmación de haber visto bases de prestaciones o logs internos. Ese límite es central para cualquier conversación con un equipo jurídico o pericial. Ver el [recorrido público del motor](../metodologia/DEL_ARCHIVO_AL_HALLAZGO.md).
+
 ## Serie y denominadores
 
 | Medida del legajo | Universo exacto | Lectura |
